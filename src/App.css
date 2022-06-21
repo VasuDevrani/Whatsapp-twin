@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dadbd3;
+  height: 100vh;
+}
+.app-body {
+  display: flex;
+  background-color: #ededed;
+  height: 90vh;
+  width: 90vw;
+  margin-top: -30px;
+  -webkit-box-shadow: 6px 5px 5px 0px rgba(0, 0, 0, 0.64);
+  -moz-box-shadow: 6px 5px 5px 0px rgba(0, 0, 0, 0.64);
+  box-shadow: 6px 5px 5px 0px rgba(0, 0, 0, 0.64);
+}

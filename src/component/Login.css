@@ -1,0 +1,36 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    width: 30vw;
+    height: 25vw;
+    padding: 5vw;
+    border-radius: 3vw;
+    border: none;
+}
+.login img{
+    width: 12vw;
+}
+.login-text{
+    color: black;
+    font-size: 1vw;
+    text-align: center;
+}
+.signin-btn{
+    color: white;
+    background-color: green;
+    border: none;
+    width: 60%;
+    height: 3vw;
+    font-size: 1vw;
+    border-radius: 30px;
+    margin-top: 10px;
+    transition: all 600ms;
+}
+.signin-btn:hover{
+    transform: scale(1.1);
+}
+
+
